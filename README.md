@@ -27,3 +27,5 @@ Index(['Index', 'Date', 'Time', 'New Device Time', 'BG Source',
        'Preset Temp Basal Name'],
       dtype='object')
       
+
+06/28/2021: Added graph to analys trend of 'Sensor Glucose (mg/dL)' over time, did some modifications to dataframe as shown in the colab book
