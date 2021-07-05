@@ -29,3 +29,5 @@ Index(['Index', 'Date', 'Time', 'New Device Time', 'BG Source',
       
 
 06/28/2021: Added graph to analys trend of 'Sensor Glucose (mg/dL)' over time, did some modifications to dataframe as shown in the colab book
+
+07/03/2021: Refined graphs a bit and limited to one day, so it can be displayed properly.
