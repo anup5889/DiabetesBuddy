@@ -1,6 +1,9 @@
 # DiabetesBuddy
-
-Suggesting actions to avoid high and low blood sugars based on previous trends.
+An app integrated with pipeline of all data required:
+	1. fitness data
+	2. diabetes data (cgm readings)
+	3. nutrition data 
+Suggests actions to avoid high and low blood sugars based on previous trends.
 
 Analysis of insulin pump data:
 https://colab.research.google.com/drive/12P2gzYgGEZP7Z7a57jwe3LpVuV3xuVIX?usp=sharing
